@@ -1,5 +1,5 @@
 # How to create MySQL Master Master replication
-Mysql RnD
+Mysql DB repllication
 
 
  In this tutorial, we will explore the process of setting up Master-Master MySQL Database Replication. This replication method,
